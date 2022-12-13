@@ -1,0 +1,309 @@
+ [
+    {
+        "id": "top+short",
+        "titulo": "Top cruzado + Short",
+        "imagen":"./assets/img-productos1.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 9790
+    },
+    {
+        "id": "Buzo-termico",
+        "titulo": "Buzo Termico",
+        "imagen": "./assets/img-productos2.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "musculosa+short",
+        "titulo": "Musculosa + Short",
+        "imagen": "./assets/img-prod3.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 12000
+    },
+    {
+        "id": "top+shortconcalza",
+        "titulo": "Top cruzado + Short con calza",
+        "imagen": "./assets/img-productos4.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 11000
+    },
+    {
+        "id": "calzaConMicrotul",
+        "titulo": "Calza Bliss Victory",
+        "imagen": "./assets/img-producto5.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 8900
+    },
+    {
+        "id": "calza-multicolor",
+        "titulo": "Calza Universe",
+        "imagen": "./assets/img-producto6.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 7800
+    },
+    {
+        "id": "Conjunto-Nike",
+        "titulo": "Conjunto Kids",
+        "imagen": "./assets/kid1 (1).jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 7800
+    },
+
+
+    {
+        "id": "damas1",
+        "titulo": "Musculosa + PortaCelu",
+        "imagen":"./assets/img-promo2.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "damas2",
+        "titulo": "Biker + Top",
+        "imagen": "./assets/portada-woman.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 15000 
+    },
+    {
+        "id": "damas3",
+        "titulo": "Top Reforzado + Biker",
+        "imagen": "./assets/producto3.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "damas4",
+        "titulo": "Total White",
+        "imagen": "./assets/producto8.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 9300
+    },
+    {
+        "id": "damas5",
+        "titulo": "Total Flex Red/Black",
+        "imagen": "./assets/promo3.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 7800
+    },
+    {
+        "id": "damas6",
+        "titulo": "Calza y Top Rose",
+        "imagen": "./assets/promo4.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 9300
+    },
+    {
+        "id": "damas7",
+        "titulo": "Top Reinforced fluo",
+        "imagen": "./assets/promo5.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 6300
+    },
+    {
+        "id": "damas8",
+        "titulo": "Top + Campera fluo",
+        "imagen": "./assets/promo8.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 26300
+    },
+    {
+        "id": "damas9",
+        "titulo": "Campera + Hiyab",
+        "imagen": "./assets/woman1.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 20300
+    },
+    {
+        "id": "damas10",
+        "titulo": "Campera Rosa",
+        "imagen": "./assets/woman2.jpg",
+        "categoria": {
+            "nombre": "Damas",
+            "id": "Damas"
+        },
+        "precio": 18000
+    },
+
+   
+    {
+        "id": "hombre1",
+        "titulo": "Calza Termica",
+        "imagen": "./assets/img-productos.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 6700
+    },
+    {
+        "id": "hombre2",
+        "titulo": "Short Black",
+        "imagen": "./assets/portadaman.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 3900
+    },
+    {
+        "id": "hombre3",
+        "titulo": "Conjunto Surf",
+        "imagen": "./assets/producto1.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 13000
+    },
+    {
+        "id": "hombre4",
+        "titulo": "Black Classic",
+        "imagen": "./assets/producto2.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 6900
+    },
+    {
+        "id": "hombre4",
+        "titulo": "Conjunto Hueso",
+        "imagen": "./assets/men1.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 31900
+    },
+    {
+        "id": "hombre5",
+        "titulo": "Maya Surf",
+        "imagen": "./assets/men3.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "hombre5",
+        "titulo": "Total White",
+        "imagen": "./assets/men4.jpg",
+        "categoria": {
+            "nombre": "Hombre",
+            "id": "Hombre"
+        },
+        "precio": 21900
+    },
+
+    
+    {
+        "id": "kids/junior1",
+        "titulo": "Pollera + Musculosa",
+        "imagen": "./assets/kid2 (1).jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 11200
+    },
+    {
+        "id": "kids/junior2",
+        "titulo": "Short + Musculosa",
+        "imagen": "./assets/kid3 (1).jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 12800
+    },
+    {
+        "id": "kids/junior3",
+        "titulo": "Mono Red",
+        "imagen": "./assets/kids5.jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 10800
+    },
+    {
+        "id": "kids/junior4",
+        "titulo": "Basquetboll",
+        "imagen": "./assets/kids6.jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "kids/junior5",
+        "titulo": "Porrista Red",
+        "imagen": "./assets/kids7.jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 16000
+    },
+    {
+        "id": "kids/junior6",
+        "titulo": "Conjunto Gimnasia",
+        "imagen": "./assets/kids9.jpg",
+        "categoria": {
+            "nombre": "kids/junior",
+            "id": "kids/junior"
+        },
+        "precio": 10800
+    }
+
+]
